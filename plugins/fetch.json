@@ -1,0 +1,10 @@
+{
+    "com.randdusing.bluetoothle": {
+        "source": {
+            "type": "registry",
+            "id": "com.randdusing.bluetoothle"
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}
